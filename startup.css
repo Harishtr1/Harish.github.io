@@ -1,0 +1,39 @@
+body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Smooch', cursive;
+	  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr{
+background-color: red;
+background-size: 100px;
+max-width: 65px;
+}
+h1{
+	font size: 3rm;
+	color: white;
+}
+.btn{
+	font-weight:300px ;
+  border-radius:200px ;
+ table-transform: uppercase;
+}
+.btn{
+	padding: 1rem 2rem;
+}
+.btn{
+	background-color: blue;
+}
+.btn:hover{
+	background-color: red;
+}
+hr{
+	border-color:blue;
+}
+.buffer{
+	height: 100px;
+}
